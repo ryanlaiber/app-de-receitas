@@ -1,5 +1,7 @@
 <strong>Projeto App de Receitas</strong>
 
+Preview(https://dashboard.heroku.com/apps/hungrycode)
+
 Este projeto foi desenvolvido em grupo durante meus estudos na Trybe.
 Meus parceiros de desenvolvimento foram:
 -  Lucas Fernandes (https://github.com/lucasfernandes20)
