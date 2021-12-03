@@ -1,6 +1,6 @@
 <strong>Projeto App de Receitas</strong>
 
-Preview(https://dashboard.heroku.com/apps/hungrycode)
+Preview(https://hungrycode.herokuapp.com/)
 
 Este projeto foi desenvolvido em grupo durante meus estudos na Trybe.
 Meus parceiros de desenvolvimento foram:
